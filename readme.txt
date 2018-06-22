@@ -18,5 +18,4 @@ Git
 \pard\pardeftab720\sl360\partightenfactor0
 \cf2 \cb3 Git 
 \f1\b \cf4 is
-\f0\b0 \cf2  free software1.\cf2 \cb3 \
-}
+siahuwasdlf
